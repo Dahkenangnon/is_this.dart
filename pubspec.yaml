@@ -1,10 +1,10 @@
-name: is_it
+name: is_this
 description: Powerfull and flexible data type checker for dart and flutter.
 version: 0.0.1
-homepage: https://github.com/Dahkenangnon/is_it.dart
-repository: https://github.com/Dahkenangnon/is_it.dart
-documentation: https://dahkenangnon.github.io/is_it.dart/
-issue_tracker: https://github.com/Dahkenangnon/is_it.dart/issues
+homepage: https://github.com/Dahkenangnon/is_this.dart
+repository: https://github.com/Dahkenangnon/is_this.dart
+documentation: https://dahkenangnon.github.io/is_this.dart/
+issue_tracker: https://github.com/Dahkenangnon/is_this.dart/issues
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
